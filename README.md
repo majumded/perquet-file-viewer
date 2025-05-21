@@ -1,7 +1,7 @@
 # Parquet Data Viewer
 ## User Manual
 
-![Parquet Data Viewer Logo](https://via.placeholder.com/150x150?text=PDV)
+![Parquet Data Viewer Logo](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer.GIF)
 
 **Version 1.0**  
 *May 2025*
