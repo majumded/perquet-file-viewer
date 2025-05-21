@@ -3,6 +3,9 @@
 
 ![Parquet Data Viewer Logo](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer.GIF)
 
+Perquet Viewer File Picker
+![Parquet Data Viewer FilePicker](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_FilePick.GIF)
+
 Perquet Viewer Data Grid
 ![Parquet Data Viewer Grid](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_DataGrid.GIF)
 
