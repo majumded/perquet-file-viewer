@@ -297,6 +297,8 @@ When reporting issues, please include:
 
 ## Overview
 
+![Parquet Data Pipeline Flow ](https://github.com/majumded/perquet-file-viewer/blob/main/Parquet%20Data%20Pipeline%20Flow.GIF)
+
 The Parquet Data Pipeline is a tool designed to extract data from SQL Server databases and save it as Parquet files. This manual explains how to set up, configure, and run the pipeline effectively.
 
 ## Table of Contents
