@@ -2,6 +2,8 @@
 ## User Manual
 
 ![Parquet Data Viewer Logo](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer.GIF)
+
+Perquet Viewer Data Grid
 ![Parquet Data Viewer Grid](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_DataGrid.GIF)
 
 **Version 1.0**  
