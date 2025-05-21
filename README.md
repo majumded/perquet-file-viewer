@@ -283,7 +283,7 @@ To change this setting:
 
 For questions, bug reports, or feature requests, please contact:
 
-**Email**: debalpdmajumder@gmail.com
+**Email**: debal-prasad.majumder@dxc.com
 
 When reporting issues, please include:
 - Application version
