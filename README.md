@@ -9,6 +9,9 @@ Perquet Viewer File Picker
 Perquet Viewer Data Grid
 ![Parquet Data Viewer Grid](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_DataGrid.GIF)
 
+Perquet Viewer Record Preview
+![Parquet Data Viewer Record Preview ](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_RecordPreview.GIF)
+
 **Version 1.0**  
 *May 2025*
 
