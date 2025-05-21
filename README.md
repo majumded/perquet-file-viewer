@@ -293,11 +293,11 @@ When reporting issues, please include:
 
 ---
 
-# SQL Server Data Pipeline User Manual
+# Parquet Data Pipeline User Manual
 
 ## Overview
 
-The SQL Server Data Pipeline is a tool designed to extract data from SQL Server databases and save it as Parquet files. This manual explains how to set up, configure, and run the pipeline effectively.
+The Parquet Data Pipeline is a tool designed to extract data from SQL Server databases and save it as Parquet files. This manual explains how to set up, configure, and run the pipeline effectively.
 
 ## Table of Contents
 
