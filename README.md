@@ -270,7 +270,7 @@ To change this setting:
 
 For questions, bug reports, or feature requests, please contact:
 
-**Email**: debal-prasad.majumder@dxc.com
+**Email**: debalpdmajumder@gmail.com
 
 When reporting issues, please include:
 - Application version
