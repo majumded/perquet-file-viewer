@@ -1,16 +1,20 @@
 # Parquet Data Viewer
 ## User Manual
 
+Perquet Viewer - UI
 ![Parquet Data Viewer Logo](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer.GIF)
 
-Perquet Viewer File Picker
+Perquet Viewer - File Picker
 ![Parquet Data Viewer FilePicker](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_FilePick.GIF)
 
-Perquet Viewer Data Grid
+Perquet Viewer - Data Grid
 ![Parquet Data Viewer Grid](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_DataGrid.GIF)
 
-Perquet Viewer Record Preview
+Perquet Viewer - Record Preview
 ![Parquet Data Viewer Record Preview ](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_RecordPreview.GIF)
+
+Perquet Viewer - Down Load Parquet File As CSV
+![Parquet Data Viewer Download Prarquet data as CSV file ](https://github.com/majumded/perquet-file-viewer/blob/main/ParquetViewer_DownLoad.GIF)
 
 **Version 1.0**  
 *May 2025*
